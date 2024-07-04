@@ -24,3 +24,7 @@ th, td {
   border: 1px solid #ddd; /* Adds a border around table headers and data cells */
   padding: 8px; /* Adds some padding to the cells */
 }
+
+.tags {
+  font-family: 'Courier New', Courier, monospace; 
+}
